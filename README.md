@@ -1,55 +1,46 @@
-# Starlight Starter Kit: Basics
+<br/>
+<p align="center">
+  <a href="https://github.com/dignation/website">
+    <img src="https://serv.hnz.li/logo/default.png" alt="Logo" width="80" height="80">
+  </a>
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+  <h3 align="center">Dignation SMP's Main Site</h3>
+  <br>
 
-```
-npm create astro@latest -- --template starlight
-```
+</p>
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/withastro/starlight&create_from_path=examples/basics)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwithastro%2Fstarlight%2Ftree%2Fmain%2Fexamples%2Fbasics&project-name=my-starlight-docs&repository-name=my-starlight-docs)
+![Contributors](https://img.shields.io/github/contributors/dignation/website?color=dark-green) ![Issues](https://img.shields.io/github/issues/dignation/website) ![License](https://img.shields.io/github/license/dignation/website) [![Netlify Status](https://api.netlify.com/api/v1/badges/ef5c3182-ef99-4e67-860d-21fa579ff4ed/deploy-status)](https://app.netlify.com/sites/huskynz/deploys?branch=master)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## About The Project
 
-## 🚀 Project Structure
+This site is built in AstroJS starship to provide a landing page for dignation
+## Built With
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+- [AstroJS](https://astro.build/)
+- [Tailwind](https://tailwindcss.com/)
+- [Cloudlfare](https://www.cloudflare.com/)
+- [Github](https://github.com/)
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   ├── docs/
-│   │   └── config.ts
-│   └── env.d.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
+## Roadmap
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+Im working on getting content into the blog and projects
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+## Contributing
 
-Static assets, like favicons, can be placed in the `public/` directory.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-## 🧞 Commands
+- If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/dignation/website/issues/new) to discuss it, or directly create a pull request after you edit a file with necessary changes. I only accept incoming pull requests on the dev branch for my sanity
+- Please make sure you check your spelling and grammar.
+- Create individual PR for each suggestion.
 
-All commands are run from the root of the project, from a terminal:
+## License
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+Distributed under the MIT License. See [LICENSE](https://github.com/dignation/website/blob/master/LICENSE) for more information.
 
-## 👀 Want to learn more?
+## Authors
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+- [HuskyNZ](https://www.husky.nz)
+
+## Acknowledgements
+
+- [Cloudflare](https://cloudflare.com)
