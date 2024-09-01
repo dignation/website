@@ -9,8 +9,7 @@
 
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/dignation/website?color=dark-green) ![Issues](https://img.shields.io/github/issues/dignation/website) ![License](https://img.shields.io/github/license/dignation/website) [![Netlify Status](https://api.netlify.com/api/v1/badges/ef5c3182-ef99-4e67-860d-21fa579ff4ed/deploy-status)](https://app.netlify.com/sites/huskynz/deploys?branch=master)
-
+![Contributors](https://img.shields.io/github/contributors/dignation/website?color=dark-green) ![Issues](https://img.shields.io/github/issues/dignation/website) ![License](https://img.shields.io/github/license/dignation/website) [![Netlify Status](https://api.netlify.com/api/v1/badges/56a98fbb-d552-46d7-843d-73b06fa5f2b7/deploy-status)](https://app.netlify.com/sites/dignation/deploys)
 ## About The Project
 
 This site is built in AstroJS starship to provide a landing page for dignation
