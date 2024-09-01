@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/dignation/website">
-    <img src="https://serv.hnz.li/logo/default.png" alt="Logo" width="80" height="80">
+    <img src="https://dig.blob.core.windows.net/public/New_Project_3.png?sp=r&st=2024-08-31T18:40:19Z&se=2030-01-01T01:40:19Z&spr=https&sv=2022-11-02&sr=c&sig=GONdaubyx2Hczt7dae%2Fvlnocb7VfisxotnLEstT8w9Y%3D" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Dignation SMP's Main Site</h3>
